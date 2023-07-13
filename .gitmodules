@@ -4,3 +4,6 @@
 [submodule "Blackjack"]
 	path = Blackjack
 	url = https://github.com/faridg79/Blackjack.git
+[submodule "Filemanagement"]
+	path = Filemanagement
+	url = https://github.com/faridg79/FileManagement.git
