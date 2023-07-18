@@ -7,3 +7,6 @@
 [submodule "Filemanagement"]
 	path = Filemanagement
 	url = https://github.com/faridg79/FileManagement.git
+[submodule "Hospital"]
+	path = Hospital
+	url = https://github.com/faridg79/Hospital
